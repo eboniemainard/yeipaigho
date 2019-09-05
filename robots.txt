@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaebaiyohp.sgtpepperslonelyhearts.club/sitemap.xml
